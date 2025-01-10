@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shiva kumar
-- 👀 I’m interested in Java Backend Development...
-- 🌱 I’m currently learning Java Spring Boot ...
+- 👀 I’m interested in Java Backend Development
+- 🌱 I’m currently learning Java Spring Boot 
 - 📫 How to reach me - Email: shivakumarctrl@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fact: Death
