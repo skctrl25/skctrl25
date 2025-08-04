@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @shiva kumar
-- 👀 I’m interested in Java Backend Development
-- 🌱 I’m currently learning Java Spring Boot 
-- 📫 How to reach me - Email: shivakumarctrl@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fact: Death
+👋 Hi, I’m @shiva kumar
+🌩️ Cloud Engineer 
+👀 Interested in cloud-native development
+🌱 Currently exploring AWS and DevOps tools
+📫 Reach me at: shivakumarctrl@gmail.com
+😄 Pronouns: he/him
 
 <!---
 skctrl25/skctrl25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
